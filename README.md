@@ -1,5 +1,6 @@
 ### Content
-Repository about talks that I gave.
+
+Repository about talks that I gave. If you encounter typos or want to add something else please contact me without hesitation or create a pull request with the proposed changes right away.
 
 ### Create beautiful web presentations
 #### Basic Usage 
