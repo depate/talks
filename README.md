@@ -4,7 +4,10 @@ Repository about talks that I gave.
 ### Create beautiful web presentations
 
 With [reveal-md](https://github.com/webpro/reveal-md), a markdown-revealjs parser, one can generate the output with:
-`reveal-md input.md`. Optionally introduce the `-w`flag to set reveal-md in `ẁatch mode`. So you can work on the markdown input file while reveal-md regocnises changes and recompiles automagically after saving the file.
+
+`reveal-md input.md`.
+
+Optionally introduce the `-w`flag to set reveal-md in `ẁatch mode`. So you can work on the markdown input file while reveal-md regocnises changes and recompiles automagically after saving the file.
 
 For further instructions on how to install reveal-md to your computer please have a look at [reveal-md](https://github.com/webpro/reveal-md).
 
