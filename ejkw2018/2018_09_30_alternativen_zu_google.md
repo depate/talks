@@ -168,6 +168,9 @@ date: 29.09.18
 ---
 
 <img style="height:394px;border:0px;" src="images/Screenshot_2018-09-29Mastodon.png"/>
+---
+
+## Social Media 2/2 
 
 ---
 
@@ -192,7 +195,7 @@ date: 29.09.18
 
 * [Pixelfed W.I.P](https://Pixelfed.org)
 * [Peertube](htts://peertube.social)
-* [Vimeo](https://vimeo.de), kind of
+* [Vimeo](https://vimeo.com), kind of
 
 ---
 
