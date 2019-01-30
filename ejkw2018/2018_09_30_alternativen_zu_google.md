@@ -117,7 +117,7 @@ date: 29.09.18
 
 ---
 
-## Facebook <img style="height:100px;border:0px;" src="images/F_Logo_Online_09_2018/Color/PNG/flogo_RGB_HEX-512.png"/>
+## Facebook <img style="height:100px;border:0px;" src="images/F_Logo_Online_09_2018/Color/PNG/flogo_RGB_HEX-72.png"/>
 
 * [Werbung!](https://www.Facebook.com/about/ads)
 * [Analyse](https://www.facebook.com/privacy/explanation)
