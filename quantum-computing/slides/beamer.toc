@@ -1,0 +1,3 @@
+\babel@toc {ngerman}{}
+\beamer@sectionintoc {1}{Abschnitt i}{2}{0}{1}
+\beamer@sectionintoc {2}{Abschnitt ii}{4}{0}{2}
