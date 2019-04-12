@@ -1,0 +1,3 @@
+[submodule "quantum-computing"]
+	path = quantum-computing
+	url = /home/patrik/Documents/Talks/quantum-computing/
